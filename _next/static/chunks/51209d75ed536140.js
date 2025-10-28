@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,21507,e=>{"use strict";let t=e=>t=>e("getCompressedAccountsByOwner",t);e.s(["makeGetCompressedAccountsByOwner",()=>t])}]);

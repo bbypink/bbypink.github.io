@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,36081,e=>{"use strict";let t=e=>()=>e("getIndexerHealth",{});e.s(["makeGetIndexerHealth",()=>t])}]);

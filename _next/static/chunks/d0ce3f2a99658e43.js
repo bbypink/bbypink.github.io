@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,82928,e=>{"use strict";let t=e=>t=>e("getTokenAccountsByOwnerV2",t);e.s(["makeGetTokenAccountsByOwnerV2",()=>t])}]);

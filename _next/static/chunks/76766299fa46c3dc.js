@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,98731,t=>{"use strict";let e=t=>(e={})=>t("getLatestNonVotingSignatures",e);t.s(["makeGetLatestNonVotingSignatures",()=>e])}]);

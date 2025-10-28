@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,5568,t=>{"use strict";let e=t=>e=>t("getAssetProof",e);t.s(["makeGetAssetProof",()=>e])}]);

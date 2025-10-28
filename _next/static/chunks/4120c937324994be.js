@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,84836,e=>{"use strict";let t=e=>t=>e("getCompressedBalanceByOwner",t);e.s(["makeGetCompressedBalanceByOwner",()=>t])}]);

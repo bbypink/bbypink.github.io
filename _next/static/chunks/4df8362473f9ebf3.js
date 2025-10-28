@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,95158,e=>{"use strict";let t=e=>t=>e("getCompressedBalance",t);e.s(["makeGetCompressedBalance",()=>t])}]);

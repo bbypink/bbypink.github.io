@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,6575,s=>{"use strict";let e=s=>e=>s("searchAssets",e);s.s(["makeSearchAssets",()=>e])}]);

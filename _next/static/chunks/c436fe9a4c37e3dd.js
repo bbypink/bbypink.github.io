@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,75352,t=>{"use strict";let o=t=>o=>t("getProgramAccountsV2",o);t.s(["makeGetProgramAccountsV2",()=>o])}]);

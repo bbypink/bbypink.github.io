@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,21740,o=>{"use strict";let t=o=>t=>o("getCompressionSignaturesForAccount",t);o.s(["makeGetCompressionSignaturesForAccount",()=>t])}]);

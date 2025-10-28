@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,72138,t=>{"use strict";let e=t=>e=>t("getAssetBatch",e);t.s(["makeGetAssetBatch",()=>e])}]);

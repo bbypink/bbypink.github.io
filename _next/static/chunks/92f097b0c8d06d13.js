@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,60611,e=>{"use strict";let o=e=>o=>e("getCompressedTokenAccountBalance",o);e.s(["makeGetCompressedTokenAccountBalance",()=>o])}]);

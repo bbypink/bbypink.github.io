@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,55322,t=>{"use strict";let e=t=>e=>t("getPriorityFeeEstimate",[e]);t.s(["makeGetPriorityFeeEstimate",()=>e])}]);
